@@ -8,6 +8,8 @@ portal da transparência: http://www.portaltransparencia.gov.br/download-de-dado
 
 dados.gov: https://dados.gov.br/
 
+dados abertos - sp: http://dados.prefeitura.sp.gov.br/pt_PT/
+
 câmara dos deputados: https://www.camara.leg.br/internet/deputado/deputado.xls
 
 estimativa da população / ibge: https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&t=downloads
