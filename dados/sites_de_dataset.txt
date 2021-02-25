@@ -6,9 +6,15 @@ consulta cand 2012 / TSE: https://www.tse.jus.br/eleicoes/estatisticas/repositor
 
 portal da transparência: http://www.portaltransparencia.gov.br/download-de-dados
 
+portal da transparencia - RN: http://transparencia.rn.gov.br/
+
 dados.gov: https://dados.gov.br/
 
 dados abertos - sp: http://dados.prefeitura.sp.gov.br/pt_PT/
+
+dados abertos - rio: https://www.data.rio/
+
+dados abertos - recife: http://dados.recife.pe.gov.br/
 
 câmara dos deputados: https://www.camara.leg.br/internet/deputado/deputado.xls
 
