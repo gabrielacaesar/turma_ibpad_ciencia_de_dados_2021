@@ -91,8 +91,6 @@ glimpse(deputado)
 
 summary(deputado)
 
-read_csv("dados/")
-
 class(deputado$`Mês Aniversário`)
 
 municipios <- data.table::fread("https://raw.githubusercontent.com/betafcc/Municipios-Brasileiros-TSE/master/municipios_brasileiros_tse.csv",
