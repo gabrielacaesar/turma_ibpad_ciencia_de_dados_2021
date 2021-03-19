@@ -1,0 +1,27 @@
+### Links úteis
+
+microdados da educação básica 2020: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar 
+
+consulta cand 2012 / TSE: https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1
+
+portal da transparência: http://www.portaltransparencia.gov.br/download-de-dados
+
+portal da transparencia - RN: http://transparencia.rn.gov.br/
+
+dados.gov: https://dados.gov.br/
+
+dados abertos - sp: http://dados.prefeitura.sp.gov.br/pt_PT/
+
+dados abertos - rio: https://www.data.rio/
+
+dados abertos - recife: http://dados.recife.pe.gov.br/
+
+câmara dos deputados: https://www.camara.leg.br/internet/deputado/deputado.xls
+
+estimativa da população / ibge: https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&t=downloads
+
+consulta E-SIC CGU: http://www.consultaesic.cgu.gov.br/busca/SitePages/principal.aspx
+
+painel - plano de dados abertos: http://paineis.cgu.gov.br/dadosabertos/index.htm
+
+kaggle: https://www.kaggle.com/
