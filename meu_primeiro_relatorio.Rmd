@@ -1,0 +1,52 @@
+---
+title: "Teste"
+author: "Sillas"
+date: "01 de Abril de 2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE)
+```
+
+# Introdução
+
+É assim que se criar uma palavra **em negrito**.  
+Parar escrever *em itálico* é assim.  
+Teve algum erro no seu código R que tá difícil de resolver? Procure [neste link](http://www.google.com)
+
+Abaixo os pacotes usados:
+
+```{r}
+library(tidyverse)
+```
+
+
+## Importação de arquivo
+
+```{r}
+df <- read_csv("df_2017.csv")
+```
+
+## Análise de dados
+
+### Tabela
+
+A tabela abaixo mostra a quantidade de países por continente.
+
+```{r, echo = TRUE}
+df %>% 
+  count(continent)
+```
+
+### Gráfico
+
+Abaixo um gráfico
+
+```{r, echo = FALSE}
+df %>% 
+  count(continent) %>% 
+  ggplot(aes(x = continent, y = n)) +
+  geom_col()
+```
+
